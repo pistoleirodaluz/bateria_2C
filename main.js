@@ -23,10 +23,10 @@ function Pom (){
                     }
                     document.querySelector('.tecla_splash') .onclick = splash;
 
-                    function toin (){
-                        document.querySelector('#som_tecla_toin').play();
+                    function toim (){
+                        document.querySelector('#som_tecla_toim').play();
                         }
-                        document.querySelector('.tecla_toin') .onclick = toin;
+                        document.querySelector('.tecla_toim') .onclick = toim;
 
                         function psh (){
                             document.querySelector('#som_tecla_psh').play();
